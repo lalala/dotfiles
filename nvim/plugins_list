@@ -1,0 +1,18 @@
+total 68
+drwxr-xr-x  6 per per 4096 Jan 10  2017 ag.vim
+drwxr-xr-x  6 per per 4096 Dec 27  2016 ctrlp.vim
+drwxr-xr-x  6 per per 4096 Jan  2  2017 indentLine
+drwxr-xr-x  4 per per 4096 Jan  2  2017 molokai
+drwxr-xr-x  8 per per 4096 Jan  2  2017 neomake
+drwxr-xr-x  9 per per 4096 Jan 20  2017 nerdtree
+-rw-r--r--  1 per per 1129 Feb  6  2017 npm-debug.log
+drwxr-xr-x 13 per per 4096 Jan  7  2017 rust.vim
+drwxr-xr-x 12 per per 4096 Jan 20  2017 vim-coffee-script
+drwxr-xr-x  7 per per 4096 Jan 20  2017 vim-easymotion
+drwxr-xr-x  5 per per 4096 Jan 10  2017 vim-esformatter
+drwxr-xr-x  5 per per 4096 Dec 25  2016 vim-hybrid-material
+drwxr-xr-x  5 per per 4096 Jan  6  2017 vim-istanbul
+drwxr-xr-x  5 per per 4096 Jan  2  2017 vim-javascript-syntax
+drwxr-xr-x  8 per per 4096 Feb  6  2017 vim-multiple-cursors
+drwxr-xr-x  5 per per 4096 Feb  2  2017 vim-rsi
+drwxr-xr-x 10 per per 4096 Jan 25  2017 YouCompleteMe
